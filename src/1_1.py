@@ -13,4 +13,4 @@ ax.grid()    # 格子の図示
 ax.set_xlabel('Time $t$ [sec]')    # 座標軸名の設定（x軸）
 ax.set_ylabel('Output $y(t)$')    # 座標軸名の設定（y軸）
 
-plt.savefig("./data/1_1.png")
+#plt.savefig("./data/1_1.png")

@@ -1,7 +1,5 @@
 import numpy as np    # 数値計算ライブラリを別名 np として読み込み
 import matplotlib.pyplot as plt    # グラフ描画ライブラリを別名 plt として読み込み
-import matplotlib
-matplotlib.use('TkAgg')
 
 beta = 0.39    # パラメータの設定
 alpha = 0.61    # パラメータの設定
